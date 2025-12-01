@@ -1,0 +1,8 @@
+/* GCPプロジェクトセレクターのウザい祖先ツールチップを非表示にする
+ * https://console.cloud.google.com/*
+ */
+
+cfc-ancestry-breadcrumb-tooltip {
+	display: none;
+}
+

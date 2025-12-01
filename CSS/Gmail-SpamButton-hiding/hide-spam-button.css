@@ -1,0 +1,7 @@
+/* Gmailで誤ってスパム報告しないようにボタンを消す
+ * https://mail.google.com/*
+ */
+
+[data-tooltip="迷惑メールを報告"] {
+	display: none!important;
+}
